@@ -1,0 +1,7 @@
+id=diting-jp
+name=Magisk module for Xiaomi 12T Pro JP
+version=v1
+versionCode=1
+author=tuxsnct
+description=Xiaomi 12T Pro 日本版用 Magiskモジュール
+updateJson=https://raw.githubusercontent.com/tuxsnct/magisk-module-diting-jp/main/update.json
